@@ -1,0 +1,707 @@
+##########################################
+#   These   problems   were   randomly   generated.
+##########################################
+problem_set_number: 3
+problems: 100
+
+data:
+
+ - problem: 1
+   correct_answer: 1
+   left_high_priority: [20]
+   right_high_priority: [113]
+   left_low_priority: [89,162,71]
+   right_low_priority: [138,183,92]
+
+ - problem: 2
+   correct_answer: 1
+   left_high_priority: [27]
+   right_high_priority: [190]
+   left_low_priority: [269,45,90]
+   right_low_priority: [293,62,99]
+
+ - problem: 3
+   correct_answer: 1
+   left_high_priority: [17]
+   right_high_priority: [185]
+   left_low_priority: [67,196,162]
+   right_low_priority: [109,222,192]
+
+ - problem: 4
+   correct_answer: 2
+   left_high_priority: [61]
+   right_high_priority: [161]
+   left_low_priority: [131,17,196]
+   right_low_priority: [170,32,240]
+
+ - problem: 5
+   correct_answer: 2
+   left_high_priority: [64]
+   right_high_priority: [157]
+   left_low_priority: [27,18,283]
+   right_low_priority: [41,60,292]
+
+ - problem: 6
+   correct_answer: 2
+   left_high_priority: [71]
+   right_high_priority: [98]
+   left_low_priority: [297,245,296]
+   right_low_priority: [325,284,322]
+
+ - problem: 7
+   correct_answer: 1
+   left_high_priority: [59]
+   right_high_priority: [185]
+   left_low_priority: [32,37,155]
+   right_low_priority: [53,52,170]
+
+ - problem: 8
+   correct_answer: 0
+   left_high_priority: [20]
+   right_high_priority: [255]
+   left_low_priority: [25,243,65]
+   right_low_priority: [77,249,119]
+
+ - problem: 9
+   correct_answer: 3
+   left_high_priority: [78]
+   right_high_priority: [84]
+   left_low_priority: [92,125,178]
+   right_low_priority: [107,161,223]
+
+ - problem: 10
+   correct_answer: 3
+   left_high_priority: [108]
+   right_high_priority: [152]
+   left_low_priority: [298,69,164]
+   right_low_priority: [317,103,173]
+
+ - problem: 11
+   correct_answer: 0
+   left_high_priority: [51]
+   right_high_priority: [285]
+   left_low_priority: [170,152,202]
+   right_low_priority: [185,171,237]
+
+ - problem: 12
+   correct_answer: 2
+   left_high_priority: [261]
+   right_high_priority: [278]
+   left_low_priority: [38,206,3]
+   right_low_priority: [61,248,55]
+
+ - problem: 13
+   correct_answer: 0
+   left_high_priority: [279]
+   right_high_priority: [283]
+   left_low_priority: [254,278,242]
+   right_low_priority: [284,322,284]
+
+ - problem: 14
+   correct_answer: 2
+   left_high_priority: [3]
+   right_high_priority: [102]
+   left_low_priority: [81,106,271]
+   right_low_priority: [113,111,292]
+
+ - problem: 15
+   correct_answer: 0
+   left_high_priority: [60]
+   right_high_priority: [279]
+   left_low_priority: [266,112,210]
+   right_low_priority: [326,141,257]
+
+ - problem: 16
+   correct_answer: 3
+   left_high_priority: [22]
+   right_high_priority: [32]
+   left_low_priority: [121,228,284]
+   right_low_priority: [133,261,338]
+
+ - problem: 17
+   correct_answer: 1
+   left_high_priority: [111]
+   right_high_priority: [277]
+   left_low_priority: [71,292,277]
+   right_low_priority: [133,334,331]
+
+ - problem: 18
+   correct_answer: 3
+   left_high_priority: [123]
+   right_high_priority: [202]
+   left_low_priority: [296,213,46]
+   right_low_priority: [341,235,64]
+
+ - problem: 19
+   correct_answer: 3
+   left_high_priority: [216]
+   right_high_priority: [227]
+   left_low_priority: [169,73,249]
+   right_low_priority: [202,88,307]
+
+ - problem: 20
+   correct_answer: 1
+   left_high_priority: [24]
+   right_high_priority: [225]
+   left_low_priority: [253,186,88]
+   right_low_priority: [287,248,134]
+
+ - problem: 21
+   correct_answer: 2
+   left_high_priority: [121]
+   right_high_priority: [153]
+   left_low_priority: [427,135,448,178,221]
+   right_low_priority: [464,174,465,229,235]
+
+ - problem: 22
+   correct_answer: 2
+   left_high_priority: [9]
+   right_high_priority: [60]
+   left_low_priority: [30,240,233,66,103]
+   right_low_priority: [71,288,265,133,143]
+
+ - problem: 23
+   correct_answer: 1
+   left_high_priority: [222]
+   right_high_priority: [430]
+   left_low_priority: [94,347,359,370,222]
+   right_low_priority: [129,373,385,410,266]
+
+ - problem: 24
+   correct_answer: 0
+   left_high_priority: [61]
+   right_high_priority: [440]
+   left_low_priority: [376,153,414,79,74]
+   right_low_priority: [399,204,448,123,81]
+
+ - problem: 25
+   correct_answer: 4
+   left_high_priority: [18]
+   right_high_priority: [26]
+   left_low_priority: [161,357,28,388,148]
+   right_low_priority: [189,393,97,423,161]
+
+ - problem: 26
+   correct_answer: 3
+   left_high_priority: [194]
+   right_high_priority: [200]
+   left_low_priority: [485,389,63,406,154]
+   right_low_priority: [533,447,116,465,226]
+
+ - problem: 27
+   correct_answer: 3
+   left_high_priority: [170]
+   right_high_priority: [327]
+   left_low_priority: [349,196,38,79,384]
+   right_low_priority: [413,215,46,109,449]
+
+ - problem: 28
+   correct_answer: 4
+   left_high_priority: [89]
+   right_high_priority: [96]
+   left_low_priority: [224,457,360,221,34]
+   right_low_priority: [292,489,381,277,64]
+
+ - problem: 29
+   correct_answer: 3
+   left_high_priority: [122]
+   right_high_priority: [127]
+   left_low_priority: [173,481,371,488,371]
+   right_low_priority: [228,490,393,554,402]
+
+ - problem: 30
+   correct_answer: 2
+   left_high_priority: [65]
+   right_high_priority: [270]
+   left_low_priority: [335,77,100,385,365]
+   right_low_priority: [344,123,144,458,409]
+
+ - problem: 31
+   correct_answer: 4
+   left_high_priority: [293]
+   right_high_priority: [301]
+   left_low_priority: [54,474,75,218,348]
+   right_low_priority: [96,489,150,290,396]
+
+ - problem: 32
+   correct_answer: 1
+   left_high_priority: [182]
+   right_high_priority: [312]
+   left_low_priority: [217,487,162,261,202]
+   right_low_priority: [244,508,186,300,252]
+
+ - problem: 33
+   correct_answer: 4
+   left_high_priority: [71]
+   right_high_priority: [92]
+   left_low_priority: [392,447,398,283,215]
+   right_low_priority: [405,453,444,317,224]
+
+ - problem: 34
+   correct_answer: 3
+   left_high_priority: [137]
+   right_high_priority: [171]
+   left_low_priority: [271,301,55,460,466]
+   right_low_priority: [354,351,124,517,489]
+
+ - problem: 35
+   correct_answer: 1
+   left_high_priority: [10]
+   right_high_priority: [280]
+   left_low_priority: [81,81,140,360,386]
+   right_low_priority: [135,158,153,432,404]
+
+ - problem: 36
+   correct_answer: 4
+   left_high_priority: [297]
+   right_high_priority: [306]
+   left_low_priority: [200,300,431,12,114]
+   right_low_priority: [280,374,464,27,132]
+
+ - problem: 37
+   correct_answer: 3
+   left_high_priority: [36]
+   right_high_priority: [173]
+   left_low_priority: [307,426,442,392,230]
+   right_low_priority: [384,480,477,470,277]
+
+ - problem: 38
+   correct_answer: 3
+   left_high_priority: [41]
+   right_high_priority: [152]
+   left_low_priority: [473,496,236,147,453]
+   right_low_priority: [546,564,316,170,478]
+
+ - problem: 39
+   correct_answer: 2
+   left_high_priority: [16]
+   right_high_priority: [323]
+   left_low_priority: [413,320,121,338,425]
+   right_low_priority: [500,373,204,404,451]
+
+ - problem: 40
+   correct_answer: 2
+   left_high_priority: [33]
+   right_high_priority: [120]
+   left_low_priority: [153,107,157,199,348]
+   right_low_priority: [240,192,218,224,417]
+
+ - problem: 41
+   correct_answer: 3
+   left_high_priority: [120]
+   right_high_priority: [234]
+   left_low_priority: [405,439,260,258,317]
+   right_low_priority: [443,498,311,331,334]
+
+ - problem: 42
+   correct_answer: 2
+   left_high_priority: [28]
+   right_high_priority: [76]
+   left_low_priority: [37,248,114,90,291]
+   right_low_priority: [56,292,172,179,339]
+
+ - problem: 43
+   correct_answer: 2
+   left_high_priority: [77]
+   right_high_priority: [282]
+   left_low_priority: [222,315,376,295,194]
+   right_low_priority: [258,339,466,325,241]
+
+ - problem: 44
+   correct_answer: 5
+   left_high_priority: [137]
+   right_high_priority: [250]
+   left_low_priority: [5,93,470,374,343]
+   right_low_priority: [59,112,505,448,349]
+
+ - problem: 45
+   correct_answer: 0
+   left_high_priority: [36]
+   right_high_priority: [344]
+   left_low_priority: [36,2,7,156,168]
+   right_low_priority: [98,71,85,164,226]
+
+ - problem: 46
+   correct_answer: 0
+   left_high_priority: [202]
+   right_high_priority: [362]
+   left_low_priority: [340,256,314,217,198]
+   right_low_priority: [359,340,381,241,232]
+
+ - problem: 47
+   correct_answer: 3
+   left_high_priority: [303]
+   right_high_priority: [337]
+   left_low_priority: [72,413,196,124,360]
+   right_low_priority: [142,461,243,169,420]
+
+ - problem: 48
+   correct_answer: 3
+   left_high_priority: [143]
+   right_high_priority: [346]
+   left_low_priority: [467,457,217,72,298]
+   right_low_priority: [529,463,284,119,390]
+
+ - problem: 49
+   correct_answer: 0
+   left_high_priority: [112]
+   right_high_priority: [412]
+   left_low_priority: [361,145,42,361,241]
+   right_low_priority: [447,159,132,373,267]
+
+ - problem: 50
+   correct_answer: 3
+   left_high_priority: [47]
+   right_high_priority: [199]
+   left_low_priority: [392,78,145,264,462]
+   right_low_priority: [430,176,220,274,537]
+
+ - problem: 51
+   correct_answer: 1
+   left_high_priority: [6]
+   right_high_priority: [214]
+   left_low_priority: [268,279,49,171,89]
+   right_low_priority: [356,348,92,228,131]
+
+ - problem: 52
+   correct_answer: 2
+   left_high_priority: [118]
+   right_high_priority: [259]
+   left_low_priority: [139,376,157,483,147]
+   right_low_priority: [196,430,196,516,191]
+
+ - problem: 53
+   correct_answer: 1
+   left_high_priority: [159]
+   right_high_priority: [368]
+   left_low_priority: [360,292,73,321,363]
+   right_low_priority: [398,318,99,368,441]
+
+ - problem: 54
+   correct_answer: 3
+   left_high_priority: [143]
+   right_high_priority: [210]
+   left_low_priority: [422,329,129,140,263]
+   right_low_priority: [484,421,211,162,327]
+
+ - problem: 55
+   correct_answer: 2
+   left_high_priority: [144]
+   right_high_priority: [250]
+   left_low_priority: [188,352,435,311,346]
+   right_low_priority: [242,436,453,357,378]
+
+ - problem: 56
+   correct_answer: 2
+   left_high_priority: [35]
+   right_high_priority: [153]
+   left_low_priority: [490,284,102,314,291]
+   right_low_priority: [561,330,110,326,356]
+
+ - problem: 57
+   correct_answer: 2
+   left_high_priority: [272]
+   right_high_priority: [349]
+   left_low_priority: [278,140,150,344,8]
+   right_low_priority: [349,181,187,410,65]
+
+ - problem: 58
+   correct_answer: 3
+   left_high_priority: [71]
+   right_high_priority: [86]
+   left_low_priority: [87,52,21,154,354]
+   right_low_priority: [170,115,65,175,370]
+
+ - problem: 59
+   correct_answer: 3
+   left_high_priority: [231]
+   right_high_priority: [245]
+   left_low_priority: [416,276,164,489,189]
+   right_low_priority: [517,373,231,561,204]
+
+ - problem: 60
+   correct_answer: 2
+   left_high_priority: [27]
+   right_high_priority: [221]
+   left_low_priority: [382,134,395,290,210]
+   right_low_priority: [410,219,456,327,265]
+
+ - problem: 61
+   correct_answer: 3
+   left_high_priority: [615,758]
+   right_high_priority: [681,896]
+   left_low_priority: [31,635,685,174,865,840,729,122,495,786]
+   right_low_priority: [67,727,786,183,942,875,804,213,538,854]
+
+ - problem: 62
+   correct_answer: 3
+   left_high_priority: [105,605]
+   right_high_priority: [245,944]
+   left_low_priority: [771,489,755,297,429,805,429,513,124,515]
+   right_low_priority: [802,588,823,366,519,873,484,530,220,582]
+
+ - problem: 63
+   correct_answer: 5
+   left_high_priority: [194,729]
+   right_high_priority: [234,934]
+   left_low_priority: [677,83,696,655,596,788,241,778,508,503]
+   right_low_priority: [690,100,732,677,662,837,328,839,576,585]
+
+ - problem: 64
+   correct_answer: 3
+   left_high_priority: [88,733]
+   right_high_priority: [340,935]
+   left_low_priority: [241,393,925,167,368,641,669,253,302,801]
+   right_low_priority: [260,456,1009,204,377,699,694,305,338,899]
+
+ - problem: 65
+   correct_answer: 5
+   left_high_priority: [87,235]
+   right_high_priority: [141,372]
+   left_low_priority: [787,466,990,788,23,301,793,173,823,504]
+   right_low_priority: [807,548,1092,812,97,326,867,199,881,594]
+
+ - problem: 66
+   correct_answer: 2
+   left_high_priority: [197,921]
+   right_high_priority: [866,944]
+   left_low_priority: [10,529,376,425,735,629,519,405,788,100]
+   right_low_priority: [71,563,467,539,788,738,626,514,884,149]
+
+ - problem: 67
+   correct_answer: 2
+   left_high_priority: [11,567]
+   right_high_priority: [210,950]
+   left_low_priority: [469,538,574,657,539,322,516,53,922,478]
+   right_low_priority: [552,622,648,769,550,392,585,77,1003,568]
+
+ - problem: 68
+   correct_answer: 6
+   left_high_priority: [218,434]
+   right_high_priority: [240,451]
+   left_low_priority: [940,122,134,73,818,834,822,467,251,737]
+   right_low_priority: [947,226,176,157,922,862,926,574,313,777]
+
+ - problem: 69
+   correct_answer: 3
+   left_high_priority: [362,852]
+   right_high_priority: [734,992]
+   left_low_priority: [132,377,981,658,858,383,65,10,316,458]
+   right_low_priority: [142,454,1030,762,886,465,153,86,360,502]
+
+ - problem: 70
+   correct_answer: 5
+   left_high_priority: [25,558]
+   right_high_priority: [41,610]
+   left_low_priority: [184,95,37,200,989,2,503,679,751,833]
+   right_low_priority: [202,210,118,208,1103,38,578,751,831,868]
+
+ - problem: 71
+   correct_answer: 3
+   left_high_priority: [176,440]
+   right_high_priority: [431,734]
+   left_low_priority: [700,183,932,220,672,179,269,122,787,243]
+   right_low_priority: [726,270,1005,263,792,238,363,157,907,283]
+
+ - problem: 72
+   correct_answer: 5
+   left_high_priority: [165,264]
+   right_high_priority: [204,313]
+   left_low_priority: [322,585,252,69,169,153,687,52,325,868]
+   right_low_priority: [400,639,297,190,201,252,715,161,335,901]
+
+ - problem: 73
+   correct_answer: 5
+   left_high_priority: [400,807]
+   right_high_priority: [644,885]
+   left_low_priority: [424,1,972,656,882,623,389,390,319,146]
+   right_low_priority: [498,118,1070,743,984,698,416,493,378,200]
+
+ - problem: 74
+   correct_answer: 5
+   left_high_priority: [417,454]
+   right_high_priority: [439,516]
+   left_low_priority: [378,908,458,355,139,176,848,148,766,962]
+   right_low_priority: [475,942,472,477,156,208,939,169,814,1032]
+
+ - problem: 75
+   correct_answer: 5
+   left_high_priority: [123,489]
+   right_high_priority: [480,606]
+   left_low_priority: [653,170,520,107,945,83,633,182,826,341]
+   right_low_priority: [773,271,642,187,1038,109,644,253,905,421]
+
+ - problem: 76
+   correct_answer: 2
+   left_high_priority: [158,700]
+   right_high_priority: [430,946]
+   left_low_priority: [742,614,393,125,340,497,157,513,914,552]
+   right_low_priority: [784,701,487,139,387,594,187,572,981,565]
+
+ - problem: 77
+   correct_answer: 6
+   left_high_priority: [765,955]
+   right_high_priority: [915,982]
+   left_low_priority: [648,507,593,415,290,890,458,750,108,765]
+   right_low_priority: [739,526,645,485,351,923,576,872,174,870]
+
+ - problem: 78
+   correct_answer: 3
+   left_high_priority: [167,511]
+   right_high_priority: [387,911]
+   left_low_priority: [274,981,235,56,968,698,992,819,371,259]
+   right_low_priority: [350,990,324,97,1034,704,1006,879,403,314]
+
+ - problem: 79
+   correct_answer: 3
+   left_high_priority: [11,760]
+   right_high_priority: [450,886]
+   left_low_priority: [482,186,949,50,628,640,796,554,500,371]
+   right_low_priority: [522,230,998,101,665,687,872,655,618,398]
+
+ - problem: 80
+   correct_answer: 3
+   left_high_priority: [127,501]
+   right_high_priority: [158,733]
+   left_low_priority: [816,554,888,353,608,745,354,103,863,81]
+   right_low_priority: [899,609,1011,405,676,751,425,207,900,129]
+
+ - problem: 81
+   correct_answer: 1
+   left_high_priority: [373,719]
+   right_high_priority: [678,890]
+   left_low_priority: [407,542,185,596,186,348,622,414,666,798]
+   right_low_priority: [512,652,273,642,244,475,653,483,698,901]
+
+ - problem: 82
+   correct_answer: 6
+   left_high_priority: [14,441]
+   right_high_priority: [30,478]
+   left_low_priority: [843,532,822,296,951,148,277,321,39,306]
+   right_low_priority: [946,633,947,331,1080,160,404,440,107,371]
+
+ - problem: 83
+   correct_answer: 1
+   left_high_priority: [373,449]
+   right_high_priority: [444,902]
+   left_low_priority: [519,358,325,645,978,405,788,645,815,366]
+   right_low_priority: [589,471,432,692,1059,470,836,708,897,379]
+
+ - problem: 84
+   correct_answer: 4
+   left_high_priority: [310,678]
+   right_high_priority: [562,930]
+   left_low_priority: [125,351,768,53,608,174,826,605,748,256]
+   right_low_priority: [189,367,801,124,626,210,911,715,821,266]
+
+ - problem: 85
+   correct_answer: 5
+   left_high_priority: [15,298]
+   right_high_priority: [32,631]
+   left_low_priority: [772,812,400,415,316,329,116,967,236,685]
+   right_low_priority: [881,843,524,459,362,341,180,1101,264,741]
+
+ - problem: 86
+   correct_answer: 1
+   left_high_priority: [108,730]
+   right_high_priority: [587,772]
+   left_low_priority: [255,933,670,160,70,709,255,820,744,254]
+   right_low_priority: [316,1052,737,166,167,743,311,938,789,278]
+
+ - problem: 87
+   correct_answer: 1
+   left_high_priority: [5,754]
+   right_high_priority: [656,949]
+   left_low_priority: [984,339,93,271,653,507,880,998,136,248]
+   right_low_priority: [1011,362,195,391,714,559,1015,1114,266,373]
+
+ - problem: 88
+   correct_answer: 5
+   left_high_priority: [210,846]
+   right_high_priority: [411,954]
+   left_low_priority: [407,967,55,325,787,499,410,824,105,821]
+   right_low_priority: [466,988,67,441,862,612,487,834,170,948]
+
+ - problem: 89
+   correct_answer: 4
+   left_high_priority: [259,372]
+   right_high_priority: [347,408]
+   left_low_priority: [229,101,545,890,967,750,33,536,727,317]
+   right_low_priority: [283,177,638,1002,999,835,125,548,776,399]
+
+ - problem: 90
+   correct_answer: 4
+   left_high_priority: [116,446]
+   right_high_priority: [291,533]
+   left_low_priority: [324,383,518,43,722,3,831,794,33,409]
+   right_low_priority: [331,447,579,86,740,129,893,880,152,541]
+
+ - problem: 91
+   correct_answer: 2
+   left_high_priority: [24,611]
+   right_high_priority: [292,844]
+   left_low_priority: [879,258,387,616,687,107,640,189,896,445]
+   right_low_priority: [1012,325,500,736,795,126,752,288,956,499]
+
+ - problem: 92
+   correct_answer: 4
+   left_high_priority: [159,407]
+   right_high_priority: [187,937]
+   left_low_priority: [64,254,887,892,392,934,362,152,640,120]
+   right_low_priority: [69,328,918,1002,406,993,370,192,667,173]
+
+ - problem: 93
+   correct_answer: 2
+   left_high_priority: [37,824]
+   right_high_priority: [330,962]
+   left_low_priority: [920,61,32,949,154,824,381,524,937,368]
+   right_low_priority: [940,108,90,1087,278,842,512,614,1008,429]
+
+ - problem: 94
+   correct_answer: 2
+   left_high_priority: [6,657]
+   right_high_priority: [231,893]
+   left_low_priority: [874,146,258,79,291,713,855,423,89,445]
+   right_low_priority: [988,223,349,180,308,831,899,553,99,481]
+
+ - problem: 95
+   correct_answer: 4
+   left_high_priority: [251,591]
+   right_high_priority: [352,853]
+   left_low_priority: [191,650,477,739,422,203,142,836,155,802]
+   right_low_priority: [232,655,497,781,441,235,170,963,259,832]
+
+ - problem: 96
+   correct_answer: 3
+   left_high_priority: [497,528]
+   right_high_priority: [507,838]
+   left_low_priority: [154,676,540,442,940,19,946,493,380,504]
+   right_low_priority: [219,745,630,555,993,146,953,511,518,593]
+
+ - problem: 97
+   correct_answer: 7
+   left_high_priority: [169,790]
+   right_high_priority: [242,806]
+   left_low_priority: [581,729,937,387,755,292,864,568,673,245]
+   right_low_priority: [666,755,1031,463,785,328,949,630,694,388]
+
+ - problem: 98
+   correct_answer: 4
+   left_high_priority: [38,628]
+   right_high_priority: [163,715]
+   left_low_priority: [751,475,655,82,893,905,831,509,593,486]
+   right_low_priority: [857,517,695,201,930,986,929,565,604,547]
+
+ - problem: 99
+   correct_answer: 1
+   left_high_priority: [5,606]
+   right_high_priority: [540,755]
+   left_low_priority: [382,582,484,318,730,801,125,692,394,857]
+   right_low_priority: [526,626,622,402,759,900,167,708,426,912]
+
+ - problem: 100
+   correct_answer: 2
+   left_high_priority: [385,746]
+   right_high_priority: [668,853]
+   left_low_priority: [813,133,415,838,795,492,964,477,722,823]
+   right_low_priority: [835,277,445,846,824,625,1044,551,758,866]

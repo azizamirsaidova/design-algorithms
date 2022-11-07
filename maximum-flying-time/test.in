@@ -1,0 +1,22 @@
+##########################################
+# These problems were randomly generated.
+##########################################
+problem_set_number: 4
+problems: 3
+
+data:
+
+ - problem: 1
+   correct_answer: 1757
+   minutes: [585,576,426,1071,505,241]
+   limit: 1000
+
+- problem: 2
+   correct_answer: 3252
+   minutes: [703,416,432,932,313,1095,617,533,397,603]
+   limit: 1000
+
+- problem: 3
+   correct_answer: 4412
+   minutes: [463,775,174,261,583,524,1078,401,1095,741,147,762,272,568]
+   limit: 1000
